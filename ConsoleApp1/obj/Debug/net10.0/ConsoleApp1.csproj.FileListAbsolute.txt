@@ -12,3 +12,4 @@ C:\Users\Edison Pates\Documents\VSC Git Folder\Uni_Projects_AY-2_Term-1\ConsoleA
 C:\Users\Edison Pates\Documents\VSC Git Folder\Uni_Projects_AY-2_Term-1\ConsoleApp1\obj\Debug\net10.0\ConsoleApp1.pdb
 C:\Users\Edison Pates\Documents\VSC Git Folder\Uni_Projects_AY-2_Term-1\ConsoleApp1\obj\Debug\net10.0\ConsoleApp1.genruntimeconfig.cache
 C:\Users\Edison Pates\Documents\VSC Git Folder\Uni_Projects_AY-2_Term-1\ConsoleApp1\obj\Debug\net10.0\ref\ConsoleApp1.dll
+C:\Users\Edison Pates\Documents\VSC Git Folder\Uni_Projects_AY-2_Term-1\ConsoleApp1\obj\Debug\net10.0\ConsoleApp1.sourcelink.json

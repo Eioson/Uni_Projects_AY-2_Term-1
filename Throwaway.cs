@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Threading;
 
 namespace ConsoleApp1
@@ -9,7 +9,13 @@ namespace ConsoleApp1
         {
          Console.Write("Write true or false:");
          String input = Console.ReadLine();
-         bool choice = (input.ToLower() == "true") ? true : false;
+         if (input == "true") {
+            Console.Write("true");
+            Console.Write("\n> true");
+         } else {
+            Console.Write("false");
+            Console.Write("\n> false");
+         }
          Console.Write($"\n> {choice}");  
         }
     }
