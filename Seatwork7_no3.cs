@@ -13,7 +13,6 @@ public class Node{
 
 public class Program {
     public static void Main(){
-        Node zero = new Node(0);
         Node first = new Node(1);
         Node second = new Node(2);
         Node third = new Node(3);
